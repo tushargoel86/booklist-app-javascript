@@ -1,5 +1,4 @@
 # booklist-app-javascript
-Booklist app in pure javascript
 
 <p> Basic app in pure javacript without using any framework. </p>
 
